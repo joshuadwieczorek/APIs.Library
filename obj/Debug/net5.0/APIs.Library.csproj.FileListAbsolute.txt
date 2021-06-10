@@ -1,0 +1,17 @@
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\APIs.Library\bin\Debug\net5.0\APIs.Library.deps.json
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\APIs.Library\bin\Debug\net5.0\APIs.Library.dll
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\APIs.Library\bin\Debug\net5.0\ref\APIs.Library.dll
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\APIs.Library\bin\Debug\net5.0\APIs.Library.pdb
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\APIs.Library\bin\Debug\net5.0\AAG.Global.dll
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\APIs.Library\bin\Debug\net5.0\Database.Accounts.Domain.dll
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\APIs.Library\bin\Debug\net5.0\Database.Accounts.Domain.pdb
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\APIs.Library\bin\Debug\net5.0\AAG.Global.pdb
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\APIs.Library\obj\Debug\net5.0\APIs.Library.csprojAssemblyReference.cache
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\APIs.Library\obj\Debug\net5.0\APIs.Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\APIs.Library\obj\Debug\net5.0\APIs.Library.AssemblyInfoInputs.cache
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\APIs.Library\obj\Debug\net5.0\APIs.Library.AssemblyInfo.cs
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\APIs.Library\obj\Debug\net5.0\APIs.Library.csproj.CoreCompileInputs.cache
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\APIs.Library\obj\Debug\net5.0\APIs.Library.csproj.CopyComplete
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\APIs.Library\obj\Debug\net5.0\APIs.Library.dll
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\APIs.Library\obj\Debug\net5.0\ref\APIs.Library.dll
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\APIs.Library\obj\Debug\net5.0\APIs.Library.pdb
